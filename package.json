@@ -2,10 +2,10 @@
   "name": "team-profile-generator",
   "version": "1.0.0",
   "description": "## Your Task",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "jest",
-    "start": "node index.js"
+    "start": "node starter/index.mjs"  
   },
   "keywords": [],
   "author": "",
@@ -15,3 +15,4 @@
     "jest": "^29.7.0"
   }
 }
+
